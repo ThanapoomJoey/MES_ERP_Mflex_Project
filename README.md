@@ -1,8 +1,8 @@
-# MFLex ERP-MES Data Simulation & Analysis Project
+# MFLEX ERP-MES Data Simulation & Analysis Project
 
 ## 📝 Project Overview
 
-This project simulates a comprehensive Enterprise Resource Planning (ERP) and Manufacturing Execution System (MES) for "MFLex," a fictional company specializing in Flexible Printed Circuits (FPCs). The core objective is to generate realistic transactional data covering the entire manufacturing lifecycle—from sales orders through production execution and quality control. This rich dataset then powers insightful dashboards for business and operational analysis.
+This project simulates a comprehensive Enterprise Resource Planning (ERP) and Manufacturing Execution System (MES) for "MFLEX," a fictional company specializing in Flexible Printed Circuits (FPCs). The core objective is to generate realistic transactional data covering the entire manufacturing lifecycle—from sales orders through production execution and quality control. This rich dataset then powers insightful dashboards for business and operational analysis.
 
 The project encompasses:
 1.  **Master Data Initialization:** Populating the database with foundational master data for customers, products (FPCs, assembled FPCs, modules), materials, Bill of Materials (BOMs), machines, defect codes, and operators.
