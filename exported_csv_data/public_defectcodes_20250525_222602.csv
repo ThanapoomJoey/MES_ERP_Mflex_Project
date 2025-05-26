@@ -1,0 +1,16 @@
+defectcodeid,defectdescription,processareaaffected,severity
+FPC_ETCH_OPN,Open Circuit (Etching),FPC_Fabrication_Etching,Critical
+FPC_ETCH_SHT,Short Circuit (Etching),FPC_Fabrication_Etching,Critical
+FPC_DRILL_MSA,Misaligned Via,FPC_Fabrication_Drilling,Major
+FPC_LAMIN_DEL,Delamination,FPC_Fabrication_Lamination,Critical
+FPC_AOI_CONTAM,Contamination Detected (FPC),FPC_Fabrication_AOI,Minor
+ASSY_SMT_MSS,Missing SMT Component,FPC_Assembly_SMT,Critical
+ASSY_SMT_WRP,Wrong Polarity/Orientation SMT,FPC_Assembly_SMT,Major
+ASSY_SMT_ALG,Misaligned SMT Component,FPC_Assembly_SMT,Major
+ASSY_SOLD_BRG,Solder Bridge,FPC_Assembly_Soldering,Critical
+ASSY_SOLD_INS,Insufficient Solder,FPC_Assembly_Soldering,Major
+ASSY_SOLD_COLD,Cold Solder Joint,FPC_Assembly_Soldering,Major
+ASSY_BOND_FAIL,ACF Bonding Failure,FPC_Assembly_Bonding,Critical
+ASSY_MECH_DMG,Mechanical Damage during Assembly,FPC_Assembly_Handling,Minor
+TEST_FAIL_FUNC,Functional Test Failure,Testing_Functional,Critical
+TEST_FAIL_ELEC,Electrical Test Failure (FPC),Testing_Electrical_FPC,Critical

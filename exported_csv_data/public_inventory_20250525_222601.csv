@@ -1,0 +1,25 @@
+inventoryitemid,itemdescription,itemtype,quantityonhand,quantityonorder,quantityallocated,reorderlevel,laststocktakedate,storagelocation
+MAT_PI_FILM_25U,Polyimide Film 25um,RawMaterial,1000,0,0,200,,Warehouse A - RM
+MAT_MPI_FILM_20U,Modified Polyimide Film 20um,RawMaterial,1000,0,0,200,,Warehouse A - RM
+MAT_LCP_FILM_30U,LCP Film 30um,RawMaterial,1000,0,0,200,,Warehouse A - RM
+MAT_CU_FOIL_18U,Copper Foil RA 18um,RawMaterial,1000,0,0,200,,Warehouse A - RM
+MAT_CU_FOIL_35U,Copper Foil ED 35um,RawMaterial,1000,0,0,200,,Warehouse A - RM
+MAT_CU_FOIL_12U,Copper Foil ED 12um,RawMaterial,1000,0,0,200,,Warehouse A - RM
+MAT_CU_FOIL_9U,Copper Foil RA 9um (for HF),RawMaterial,1000,0,0,200,,Warehouse A - RM
+MAT_ADH_ACRYLIC,Acrylic Adhesive Sheet,RawMaterial,1000,0,0,200,,Warehouse A - RM
+MAT_COVERLAY_PI,Polyimide Coverlay Film,RawMaterial,1000,0,0,200,,Warehouse A - RM
+MAT_STIFF_FR4_02,FR4 Stiffener 0.2mm,RawMaterial,1000,0,0,200,,Warehouse A - RM
+COMP_RES_01005_1K,Resistor 01005 1K Ohm,Component,5000,0,0,1000,,Warehouse B - Comp
+COMP_CAP_0201_10NF,Capacitor 0201 10nF,Component,5000,0,0,1000,,Warehouse B - Comp
+COMP_IC_FINEPITCH_A,IC Fine Pitch Type A (for ACF),Component,5000,0,0,1000,,Warehouse B - Comp
+COMP_CONNECTOR_ZIF,ZIF Connector 10pin,Component,5000,0,0,1000,,Warehouse B - Comp
+MAT_SOLDER_PASTE_SAC,Solder Paste SAC305,Consumable,200,0,0,50,,Production Store
+MAT_ACF_FILM,Anisotropic Conductive Film (ACF),Consumable,200,0,0,50,,Production Store
+MAT_PLASTIC_HOUSING_A,Plastic Housing Type A,Component,5000,0,0,1000,,Warehouse B - Comp
+ASSY02_FPC_ML4_MPI12,Assembled FPC ML4 MPI12 with Fine Pitch IC (ACF),FinishedGood_AssembledFPC,252248,0,0,5,,Finished Goods Store - Bay 1
+FPC_ML4_MPI12,"FPC Multi-Layer (4L) Mod-PI 12um Cu, HDI",FinishedGood_FPC,244214,0,0,5,,Finished Goods Store - Bay 1
+FPC_SL_PI18,FPC Single Layer Polyimide 18um Cu,FinishedGood_FPC,280450,0,0,5,,Finished Goods Store - Bay 1
+ASSY01_FPC_SL_PI18,Assembled FPC SL PI18 with SMT 01005,FinishedGood_AssembledFPC,264661,0,0,5,,Finished Goods Store - Bay 1
+MODULE_SENSOR_A,Sensor Module with FPC_DL_PI35 & Housing,FinishedGood_Module,177043,0,0,5,,Finished Goods Store - Bay 1
+FPC_SL_LCP9_HF,"FPC Single Layer LCP 9um Cu, High-Freq",FinishedGood_FPC,209099,0,0,5,,Finished Goods Store - Bay 1
+FPC_DL_PI35,FPC Double Layer Polyimide 35um Cu,FinishedGood_FPC,257220,0,0,5,,Finished Goods Store - Bay 1

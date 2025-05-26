@@ -1,0 +1,6 @@
+customerid,customername,contactperson,email,phone,address
+CUST001,Global Tech Solutions,Alice Wonderland,alice@globaltech.com,555-0101,"123 Innovation Drive, Tech City"
+CUST002,Future Devices Inc.,Bob The Builder,bob@futuredevices.com,555-0102,"456 Silicon Avenue, Gadget Town"
+CUST003,AeroSpace Dynamics,Carol Danvers,carol@aerodynamics.com,555-0103,"789 Sky High Rd, Flight Ville"
+CUST004,MediEquip Corp.,David Banner,david@mediequip.com,555-0104,"101 Health St, Wellness City"
+CUST005,Automotive Innovations Ltd.,Eve Moneypenny,eve@autoinnovate.com,555-0105,"202 Fast Lane, Motorburg"

@@ -1,0 +1,11 @@
+machineid,machinename,processarea,location,description
+LAMINATE01,Lamination Press A,FPC_Fabrication,Zone 1 Fab,Polyimide lamination for FPC base
+ETCH01,Chemical Etching Line - Alpha,FPC_Fabrication,Zone 1 Fab,Copper etching for circuit patterns
+DRILL_LASER01,Laser Via Drilling Xylon-5,FPC_Fabrication,Zone 2 Fab,Micro-via and blind/buried via formation
+AOI_FPC01,AOI for FPC Inspection,FPC_Fabrication,QA Fab,Optical inspection of FPC layers
+TEST_E_FPC01,FPC Electrical Tester K1,FPC_Fabrication,QA Fab,Final FPC electrical continuity and isolation test
+SMT_LINE1_PLACE,SMT Placement Fuji AIMEX III - Line 1,FPC_Assembly,Assembly Line 1,High-density SMT component placement
+SMT_LINE1_REFLOW,Reflow Oven Nitrogen - Line 1,FPC_Assembly,Assembly Line 1,Solder reflow process
+BOND_ACF01,ACF Bonder - Fine Pitch,FPC_Assembly,Special Assembly Area,Anisotropic Conductive Film bonding for fine pitch ICs
+AOI_ASSY01,AOI for Assembled Boards - Line 1,FPC_Assembly,QA Assembly,Post-SMT and post-soldering inspection
+TEST_FUNC_ASSY01,Functional Tester - Assembled Units,FPC_Assembly,QA Assembly,Functional test for assembled FPC/Modules

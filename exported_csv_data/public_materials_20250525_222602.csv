@@ -1,0 +1,23 @@
+materialid,materialname,materialtype,unitofmeasure,standardcost
+MAT_PI_FILM_25U,Polyimide Film 25um,RawMaterial,Roll (m2),10.5000
+MAT_MPI_FILM_20U,Modified Polyimide Film 20um,RawMaterial,Roll (m2),12.7500
+MAT_LCP_FILM_30U,LCP Film 30um,RawMaterial,Roll (m2),25.0000
+MAT_CU_FOIL_18U,Copper Foil RA 18um,RawMaterial,Roll (m2),5.2000
+MAT_CU_FOIL_35U,Copper Foil ED 35um,RawMaterial,Roll (m2),7.8000
+MAT_CU_FOIL_12U,Copper Foil ED 12um,RawMaterial,Roll (m2),9.5000
+MAT_CU_FOIL_9U,Copper Foil RA 9um (for HF),RawMaterial,Roll (m2),11.5000
+MAT_ADH_ACRYLIC,Acrylic Adhesive Sheet,RawMaterial,Sheet,2.1000
+MAT_COVERLAY_PI,Polyimide Coverlay Film,RawMaterial,Roll (m2),8.5000
+MAT_STIFF_FR4_02,FR4 Stiffener 0.2mm,RawMaterial,Sheet,1.5000
+COMP_RES_01005_1K,Resistor 01005 1K Ohm,Component,Pieces,0.0050
+COMP_CAP_0201_10NF,Capacitor 0201 10nF,Component,Pieces,0.0080
+COMP_IC_FINEPITCH_A,IC Fine Pitch Type A (for ACF),Component,Pieces,1.2500
+COMP_CONNECTOR_ZIF,ZIF Connector 10pin,Component,Pieces,0.1500
+MAT_SOLDER_PASTE_SAC,Solder Paste SAC305,Consumable,Gram,0.0200
+MAT_ACF_FILM,Anisotropic Conductive Film (ACF),Consumable,Meter,3.5000
+MAT_PLASTIC_HOUSING_A,Plastic Housing Type A,Component,Pieces,0.7500
+FPC_SL_PI18,FPC Single Layer Polyimide 18um Cu,SubAssembly_FPC,Pieces,1.6250
+FPC_DL_PI35,FPC Double Layer Polyimide 35um Cu,SubAssembly_FPC,Pieces,3.7375
+FPC_ML4_MPI12,"FPC Multi-Layer (4L) Mod-PI 12um Cu, HDI",SubAssembly_FPC,Pieces,9.8800
+FPC_SL_LCP9_HF,"FPC Single Layer LCP 9um Cu, High-Freq",SubAssembly_FPC,Pieces,5.7850
+ASSY01_FPC_SL_PI18,Assembled FPC SL PI18 with SMT 01005,SubAssembly_AssembledFPC,Pieces,5.0700
