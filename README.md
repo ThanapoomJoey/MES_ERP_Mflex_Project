@@ -12,6 +12,25 @@ Data from : https://www.mflex.com/product/flexible-printed-circuits
 ![Module](images/Flexible_Circuit_Module_Assembly.png)
 2.  **Database Schema Design:** A PostgreSQL database schema modeling key ERP and MES entities and processes.
 ![MES_ER_Diagram](images/MES_ER_Diagram.png)
+- customers
+![customers](images/customers.png)
+- salesorders
+![salesorders](images/salesorders.png)
+- salesorderlines
+![salesorderlines](images/salesorderlines.png)
+- products
+![products](images/products.png)
+- machines
+![machines](images/machines.png)
+- inventory
+![inventory](images/inventory.png)
+- materials
+![materials](images/materials.png)
+- defectcodes
+![defectcodes](images/defectcodes.png)
+- productionlog
+![productionlog](images/productionlog.png)
+
 
 3.  **Transactional Data Generation:** A Python script (`generate_simulated_mflex_data.py`) that simulates the creation of sales orders, work orders, detailed production logs (including machine status, yield, and scrap), and defect logs over a defined period.
 4.  **Data Analysis & Visualization:** Development of SQL analytical views and creation of interactive dashboards (Power BI) to monitor sales performance, customer behavior, product popularity, production efficiency, and quality metrics.
